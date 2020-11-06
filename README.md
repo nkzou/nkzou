@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi!👋 I'm Kevin Zou
 
+I've been programming in various computer languages for nearly 8 years now, and currently most familiar with Python and C++.
+
+I do lots of game-related programming, like plugins and automation scripts, in addition to game dev with Unity3D in C#. I'm always interested in learning more about tech, especially on the backend server side of things.
+
+In my free time, other than my programming projects, I watch movies and TV, follow artists online, and play video games. And I'm a cat person - with a soft spot for Shibas.
 <!--
 **nkzou/nkzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
