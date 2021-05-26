@@ -6,10 +6,10 @@ I do lots of game-related programming, like plugins and automation scripts, in a
 
 In my free time, other than my programming projects, I... 
 
-- 📺 Watch TV shows, movies, anime, and read manga
+- 📺 Watch and read anime, manga, and novels
 - 🎹 Play and practice Piano
-- 💻⌨ Build Small-form-factor PCs and Mechanical Keyboards
-- 🎮 Play video games (Black Desert Online and Arknights)
+- 💻⌨ Build DIY Small-form-factor PCs and Mechanical Keyboards
+- 🎮 Play video games (mostly just Arknights)
 <!--
 - 📝 Write about my thoughts and opinions in my blog: [Null Comment]()
 -->
