@@ -9,7 +9,7 @@ In my free time, other than my programming projects, I...
 - 📺 Watch and read anime, manga, and novels
 - 🎹 Play and practice Piano
 - 💻⌨ Build DIY Small-form-factor PCs and Mechanical Keyboards
-- 🎮 Play video games (mostly just Arknights)
+- 🎮 Play video games (Final Fantasy XIV is my current vice)
 <!--
 - 📝 Write about my thoughts and opinions in my blog: [Null Comment]()
 -->
